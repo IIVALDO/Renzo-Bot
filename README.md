@@ -1,6 +1,6 @@
 # Renzo-Bot
 
->>> This bot is used by more than 0 Discord users and more than 0 servers.
+> This bot is used by more than 0 Discord users and more than 0 servers.
 
 Renzo is a open source Discord bot coded in JavaScript with Discord.js and Mongoose by IR0NIIC3607.
 Feel free to add a star star to the repository to promote the project!
@@ -39,6 +39,6 @@ Contributing
 Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the F.A.Q.
 And if you have a question, please ask it in the Discord server instead of opening an issue. If you wish to contribute to the Egglord's codebase or documentation, look at what we are requesting.
 
-License
+<strong>License</strong>
 Egglord is licensed under the Apache license. See the file LICENSE for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewher
 
