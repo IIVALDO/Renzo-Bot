@@ -1,25 +1,20 @@
 # Renzo-Bot
 
-This bot is used by more than 150,000 Discord users and more than 80 servers.
+>>> This bot is used by more than 0 Discord users and more than 0 servers.
 
-Egglord is a open source Discord bot coded in JavaScript with Discord.js and Mongoose by SpiderJockey02.
+Renzo is a open source Discord bot coded in JavaScript with Discord.js and Mongoose by IR0NIIC3607.
 Feel free to add a star star to the repository to promote the project!
 
 Features
 Complete Bot
 EggLord offers:
 
-email Support for commands in direct messages.
-gear Guild configuration (prefix, ignored channels, etc...)
-open_file_folder Extensive logging system (message/channel/role/emoji updates, (un)bans/kicks etc...)
-police_car Advanced Auto-moderation feature (stop bad words, excessive emojis/mentions/spoilers/caps, server invites etc...)
-wave Welcome plugin (send welcome/leave message, give roles etc...)
-Egglord also adds a new mention like @everyone and @here, the @someone, which allows you to pick a random member of the server!
+{features here}
 
 Many commands
-Egglord has a lot of features, with 11 categories:
+Egglord has a lot of features, with:
 
-tada Fun: advice, fact, meme, reminder, pokemon and 5 more!
+:tada Fun: advice, fact, meme, reminder, pokemon and 5 more!
 gift Giveaway: g-start, g-reroll, g-edit and g-delete!
 speech_balloon Guild: avatar, giveaway, server-info, poll, and 4 more!
 crown Host: reload, shutdown, addban, eval!
